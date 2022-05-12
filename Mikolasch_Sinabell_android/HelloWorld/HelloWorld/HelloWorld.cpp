@@ -12,6 +12,7 @@ int main()
 void thisIsANewMethod()
 {
      std::cout << "Hello newMethod!\n"; //added
+    std::cout << "Hello Marcus!";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

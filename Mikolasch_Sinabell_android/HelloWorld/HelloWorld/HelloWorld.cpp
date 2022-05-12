@@ -14,7 +14,7 @@ void thisIsANewMethod()
      std::cout << "Hello newMethod!\n"; //added
     std::cout << "Hello Markus!";
     std::cout << "another important message!";
-
+	std::cout << "Hallo this is David";
 
 }
 

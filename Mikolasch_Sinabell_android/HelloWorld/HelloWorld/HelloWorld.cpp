@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Hello Fabian!\n"; //added
 }
 
 void thisIsANewMethod()
